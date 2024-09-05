@@ -1,9 +1,9 @@
-(https://media.licdn.com/dms/image/v2/D4D16AQGL0odJkPvSiQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724241488554?e=1730937600&v=beta&t=FdkxJaQ06QgdWZnLU1rLHfIrIUefozcjYTFpL2zpPsM)
+https://media.licdn.com/dms/image/v2/D4D16AQGL0odJkPvSiQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724241488554?e=1730937600&v=beta&t=FdkxJaQ06QgdWZnLU1rLHfIrIUefozcjYTFpL2zpPsM
 
 
 ### Hi there 👋, I'm Kawsar Ahmed
 #### Mern Stack Developer
-![Mern Stack Developer]
+Mern Stack Developer
 I’m a Front End Web developer passionate about learning and sharing my knowledge with others as publicly as possible. I am strategic and goal-oriented, and I always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication.
 
 Skills: REACT / JS / HTML / CSS/Tailwind
